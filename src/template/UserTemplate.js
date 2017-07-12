@@ -1,0 +1,5 @@
+class UserTemplate {
+  constructor(jsonObj){
+    
+  }
+}

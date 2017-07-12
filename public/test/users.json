@@ -1,0 +1,36 @@
+[
+  {
+    "email":"pksinha@yahoo.in",
+    "firstName":"Pradeep",
+    "middleName":"Kumar",
+    "lastName":"Sinha",
+    "dob":"18.07.1969",
+    "gender":"m",
+    "firstLang":"en",
+    "secondLang":"hi",
+    "thirdLang":"",
+    "bloodGroup":"AB+",
+    "nationality":"IN",
+    "religion":"HIN",
+    "phoneMob":"9877625161",
+    "phoneOff":"0114104516",
+    "phoneRes":"0112334667"
+  },
+  {
+    "email":"mehrishir33@rediff.in",
+    "firstName":"Rajiv",
+    "middleName":"",
+    "lastName":"Mehrishi",
+    "dob":"08.08.1975",
+    "gender":"m",
+    "firstLang":"en",
+    "secondLang":"hi",
+    "thirdLang":"gu",
+    "bloodGroup":"B+",
+    "nationality":"IN",
+    "religion":"HIN",
+    "phoneMob":"7277625133",
+    "phoneOff":"0114104516",
+    "phoneRes":"0112334667"
+  },
+]
